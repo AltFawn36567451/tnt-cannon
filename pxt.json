@@ -1,0 +1,24 @@
+{
+    "name": "tnt cannon",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*",
+        "shapes": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.30",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ]
+}
